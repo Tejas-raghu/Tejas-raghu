@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas-raghu" alt="tejas-raghu" /></a> </p>
 
-- 👨‍💻 Have a look to my Portfolio [https://portfoliotejasvi.netlify.app/](https://portfoliotejasvi.netlify.app/)
+- 👨‍💻 Have a look to my Portfolio [https://portfolio-tejasvi.netlify.app/](https://portfolio-tejasvi.netlify.app/)
 
 - 📫 How to reach me **tejasviraghuvanshi3@gmail.com**
 
