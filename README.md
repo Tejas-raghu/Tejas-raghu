@@ -7,7 +7,7 @@
 
 - 👨‍💻 Have a look to my Portfolio [https://portfolio-tejasvi.netlify.app/](https://portfolio-tejasvi.netlify.app/)
 
-- 📫 How to reach me **tejasviraghuvanshi3@gmail.com**
+- 📫 How to reach me **rg.tejasvi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
